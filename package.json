@@ -21,7 +21,8 @@
     "passport": "^0.6.0",
     "passport-github": "^1.1.0",
     "passport-google-oauth20": "^2.0.0",
-    "passport-twitter": "^1.0.4"
+    "passport-twitter": "^1.0.4",
+    "tsc": "^2.0.4"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
@@ -34,7 +35,6 @@
     "@types/passport-twitter": "^1.0.37",
     "nodemon": "^2.0.19",
     "ts-node": "^10.9.1",
-    "tsc": "^2.0.4",
     "typescript": "^4.7.4"
   }
 }
